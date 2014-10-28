@@ -6,3 +6,5 @@ test-repo
 #### This is a 4 heading
 * list 1
 * list 2
+This is text.
+More text.
